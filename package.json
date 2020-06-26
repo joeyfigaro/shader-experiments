@@ -1,0 +1,23 @@
+{
+  "name": "shader-experiments",
+  "version": "1.0.0",
+  "description": "Playground for experimentation and tinkering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyfigaro/shader-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyfigaro/shader-experiments/issues"
+  },
+  "homepage": "https://github.com/joeyfigaro/shader-experiments#readme",
+  "devDependencies": {
+    "clang-format": "^1.4.0"
+  }
+}
